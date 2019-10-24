@@ -1,3 +1,3 @@
-class Manager
+class Manager 
 
 end
